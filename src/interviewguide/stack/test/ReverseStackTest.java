@@ -14,8 +14,8 @@ public class ReverseStackTest {
 
         s.reverse();
 
-        Integer pop = s.getStack().pop();
-        System.out.println(pop);
-        System.out.println(s.getStack().pop());
+//        for (int i = 0; i <6 ; i++) {
+//            System.out.println(s.getStack().pop());
+//        }
     }
 }

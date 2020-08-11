@@ -4,7 +4,7 @@ import java.util.Stack;
 
 public class ReverseStack {
     private Stack<Integer> stack;
-
+    private int count;
     public ReverseStack() {
         this.stack = new Stack<Integer>();
     }
@@ -16,6 +16,7 @@ public class ReverseStack {
         }else {
             int cur = getLastElement();
             stack.push(res);
+//            System.out.println(cur);
             return cur;
         }
     }
@@ -32,6 +33,5 @@ public class ReverseStack {
     public Stack<Integer> getStack(){
         return stack;
     }
-
 
 }
