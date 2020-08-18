@@ -1,20 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f27be5ac-c294-4cf3-8bb9-5c6b6751b773" name="默认更改列表" comment="">
-      <change afterPath="$PROJECT_DIR$/src/basicalgorithm/traversal/DownToUpTraversal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basicalgorithm/traversal/LastTraversal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basicalgorithm/traversal/LayerTraversal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basicalgorithm/traversal/MidTraversal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basicalgorithm/traversal/PreTraversal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basicalgorithm/traversal/TreeNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/arraylist/ArrayToBTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/arraylist/CheckDecreaseArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/integer/CountPrimes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/linklist/LinkListToBTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/mysql/删除重复邮箱" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="f27be5ac-c294-4cf3-8bb9-5c6b6751b773" name="默认更改列表" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -27,8 +14,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/basicalgorithm/traversal/LastTraversal.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="15" column="9" lean-forward="true" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
+            <state relative-caret-position="322">
+              <caret line="15" column="9" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -41,11 +28,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="552">
               <caret line="24" column="17" selection-start-line="24" selection-start-column="17" selection-end-line="24" selection-end-column="17" />
-              <folding>
-                <element signature="e#229#244#0" expanded="true" />
-                <element signature="e#449#459#0" expanded="true" />
-                <element signature="e#506#515#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -134,7 +116,13 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="917" />
     <option name="y" value="1" />
     <option name="width" value="958" />
@@ -148,13 +136,18 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="javabasic" type="b2602c69:ProjectViewProjectNode" />
               <item name="javabasic" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="javabasic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="javabasic" type="462c0819:PsiDirectoryNode" />
+              <item name=".idea" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="javabasic" type="b2602c69:ProjectViewProjectNode" />
@@ -199,7 +192,7 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -208,7 +201,7 @@
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1597738300538" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="preferences.arquillian" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -322,17 +315,18 @@
       <workItem from="1597284322047" duration="204000" />
       <workItem from="1597284640445" duration="8634000" />
       <workItem from="1597309047944" duration="17109000" />
+      <workItem from="1597738604826" duration="67000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="56840000" />
+    <option name="totallyTimeSpent" value="56907000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="917" y="1" width="958" height="1082" extended-state="0" />
+    <frame x="-8" y="-8" width="1874" height="1096" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2594655" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13120176" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="设计器" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -361,7 +355,7 @@
       <window_info anchor="right" id="调色板" order="5" />
       <window_info anchor="right" id="Database" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
-      <window_info anchor="right" id="Maven Projects" order="8" />
+      <window_info anchor="right" id="Maven Projects" order="8" visible="true" weight="0.3296582" />
       <window_info anchor="right" id="Palette" order="9" />
     </layout>
   </component>
@@ -384,13 +378,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/interviewguide/stack/MaxRecSize.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="8" column="48" lean-forward="true" selection-start-line="8" selection-start-column="48" selection-end-line="8" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/interviewguide/list/PrintCommonPart.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="502">
@@ -521,17 +508,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/designpattern/SingleInstance.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="46">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding>
-            <element signature="e#207#208#0" expanded="true" />
-            <element signature="e#237#238#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/designpattern/SingleInstance.java" />
     <entry file="file://$PROJECT_DIR$/src/others/Stringbuilder.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="207">
@@ -624,10 +601,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="483">
           <caret line="21" column="3" lean-forward="true" selection-start-line="21" selection-start-column="3" selection-end-line="21" selection-end-column="3" />
-          <folding>
-            <element signature="e#709#710#0" expanded="true" />
-            <element signature="e#747#748#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -649,14 +622,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="483">
           <caret line="21" selection-start-line="21" selection-end-line="21" />
-          <folding>
-            <element signature="e#188#189#0" expanded="true" />
-            <element signature="e#221#222#0" expanded="true" />
-            <element signature="e#280#281#0" expanded="true" />
-            <element signature="e#328#329#0" expanded="true" />
-            <element signature="e#687#688#0" expanded="true" />
-            <element signature="e#717#718#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -728,8 +693,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/basicalgorithm/traversal/LastTraversal.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="15" column="9" lean-forward="true" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
+        <state relative-caret-position="322">
+          <caret line="15" column="9" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -745,6 +710,13 @@
             <element signature="e#449#459#0" expanded="true" />
             <element signature="e#506#515#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="16" column="11" lean-forward="true" selection-start-line="16" selection-start-column="11" selection-end-line="16" selection-end-column="11" />
         </state>
       </provider>
     </entry>
