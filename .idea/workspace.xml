@@ -2,9 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f27be5ac-c294-4cf3-8bb9-5c6b6751b773" name="默认更改列表" comment="">
-      <change afterPath="$PROJECT_DIR$/src/designpattern/singinstance/Lock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/designpattern/singinstance/Simplfy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/designpattern/singinstance/Unsafe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basicalgorithm/traversal/DownToUpTraversal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basicalgorithm/traversal/LastTraversal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basicalgorithm/traversal/LayerTraversal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basicalgorithm/traversal/MidTraversal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basicalgorithm/traversal/PreTraversal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basicalgorithm/traversal/TreeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/arraylist/ArrayToBTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/arraylist/CheckDecreaseArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/integer/CountPrimes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/linklist/LinkListToBTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/mysql/删除重复邮箱" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -17,32 +25,36 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/designpattern/singinstance/Simplfy.java">
+        <entry file="file://$PROJECT_DIR$/src/basicalgorithm/traversal/LastTraversal.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="253">
-              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+            <state relative-caret-position="345">
+              <caret line="15" column="9" lean-forward="true" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
               <folding>
-                <element signature="e#193#194#0" expanded="true" />
-                <element signature="e#222#223#0" expanded="true" />
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/basicalgorithm/traversal/LayerTraversal.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="552">
+              <caret line="24" column="17" selection-start-line="24" selection-start-column="17" selection-end-line="24" selection-end-column="17" />
+              <folding>
+                <element signature="e#229#244#0" expanded="true" />
+                <element signature="e#449#459#0" expanded="true" />
+                <element signature="e#506#515#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/designpattern/singinstance/Lock.java">
+        <entry file="file://$PROJECT_DIR$/src/basicalgorithm/traversal/DownToUpTraversal.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="414">
-              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/designpattern/singinstance/Unsafe.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="322">
-              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+            <state relative-caret-position="115">
+              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
             </state>
           </provider>
         </entry>
@@ -62,18 +74,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/datastructure/graph_di_weight/Edge.java" />
-        <option value="$PROJECT_DIR$/src/com/datastructure/graph_di_weight/EdgeWeightedGraph.java" />
-        <option value="$PROJECT_DIR$/src/com/datastructure/graph_di_weight/PrimMST.java" />
-        <option value="$PROJECT_DIR$/src/interviewguide/stack/GetMinStack.java" />
-        <option value="$PROJECT_DIR$/src/interviewguide/stack/TwoStackQueue.java" />
-        <option value="$PROJECT_DIR$/src/interviewguide/stack/test/TwoStackQueueTest.java" />
-        <option value="$PROJECT_DIR$/src/interviewguide/stack/petdogqueue/Pet.java" />
-        <option value="$PROJECT_DIR$/src/interviewguide/stack/petdogqueue/PetEnterQueue.java" />
-        <option value="$PROJECT_DIR$/src/interviewguide/stack/petdogqueue/CatDogQueue.java" />
-        <option value="$PROJECT_DIR$/src/interviewguide/stack/petdogqueue/Dog.java" />
-        <option value="$PROJECT_DIR$/src/interviewguide/stack/petdogqueue/Cat.java" />
-        <option value="$PROJECT_DIR$/src/interviewguide/stack/petdogqueue/test/CatDogQueueTest.java" />
         <option value="$PROJECT_DIR$/src/interviewguide/stack/StackSort.java" />
         <option value="$PROJECT_DIR$/src/interviewguide/queue/GetMaxWindow.java" />
         <option value="$PROJECT_DIR$/src/interviewguide/queue/test/GetMaxWindowTest.java" />
@@ -112,6 +112,19 @@
         <option value="$PROJECT_DIR$/src/designpattern/singinstance/Simplfy.java" />
         <option value="$PROJECT_DIR$/src/designpattern/singinstance/Unsafe.java" />
         <option value="$PROJECT_DIR$/src/designpattern/singinstance/Lock.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/LinkListToBTree.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/ArrayToBTree.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/mysql/删除重复邮箱" />
+        <option value="$PROJECT_DIR$/src/leetcode/arraylist/ArrayToBTree.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/linklist/LinkListToBTree.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/integer/CountPrimes.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/arraylist/CheckDecreaseArray.java" />
+        <option value="$PROJECT_DIR$/src/basicalgorithm/traversal/TreeNode.java" />
+        <option value="$PROJECT_DIR$/src/basicalgorithm/traversal/PreTraversal.java" />
+        <option value="$PROJECT_DIR$/src/basicalgorithm/traversal/MidTraversal.java" />
+        <option value="$PROJECT_DIR$/src/basicalgorithm/traversal/LastTraversal.java" />
+        <option value="$PROJECT_DIR$/src/basicalgorithm/traversal/LayerTraversal.java" />
+        <option value="$PROJECT_DIR$/src/basicalgorithm/traversal/DownToUpTraversal.java" />
       </list>
     </option>
   </component>
@@ -121,7 +134,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds">
     <option name="x" value="917" />
     <option name="y" value="1" />
     <option name="width" value="958" />
@@ -152,7 +165,35 @@
               <item name="javabasic" type="b2602c69:ProjectViewProjectNode" />
               <item name="javabasic" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="singinstance" type="462c0819:PsiDirectoryNode" />
+              <item name="basicalgorithm" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="javabasic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="javabasic" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="basicalgorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="traversal" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="javabasic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="javabasic" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="javabasic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="javabasic" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="datastructure" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="javabasic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="javabasic" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="datastructure" type="462c0819:PsiDirectoryNode" />
+              <item name="tree" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -164,7 +205,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1597646448708" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1597738300538" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.arquillian" />
@@ -280,18 +321,18 @@
       <workItem from="1597196176111" duration="10431000" />
       <workItem from="1597284322047" duration="204000" />
       <workItem from="1597284640445" duration="8634000" />
-      <workItem from="1597309047944" duration="8323000" />
+      <workItem from="1597309047944" duration="17109000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="48054000" />
+    <option name="totallyTimeSpent" value="56840000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="917" y="1" width="958" height="1082" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23162584" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2594655" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="设计器" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -343,93 +384,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/interviewguide/stack/test/ReverseStack.java" />
-    <entry file="file://$PROJECT_DIR$/src/interviewguide/stack/petdogqueue/Dog.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="92">
-          <caret line="4" column="21" lean-forward="true" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/interviewguide/stack/petdogqueue/Pet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
-          <caret line="13" selection-start-line="13" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/interviewguide/stack/GetMinStack.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="17" column="23" selection-start-line="17" selection-start-column="23" selection-end-line="17" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/interviewguide/stack/petdogqueue/Cat.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/interviewguide/stack/test/TwoStackQueueTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="414">
-          <caret line="18" column="32" selection-start-line="18" selection-start-column="32" selection-end-line="18" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/interviewguide/stack/petdogqueue/CatDogQueue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="310">
-          <caret line="16" column="26" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/interviewguide/stack/petdogqueue/PetEnterQueue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="8" column="27" lean-forward="true" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/interviewguide/stack/petdogqueue/test/CatDogQueueTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="368">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/interviewguide/array/PrintCommonPart.java" />
-    <entry file="file://$PROJECT_DIR$/src/interviewguide/queue/test/GetMaxWindowTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="322">
-          <caret line="14" column="9" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/interviewguide/stack/test/ReverseStackTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="253">
-          <caret line="20" column="1" lean-forward="true" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/interviewguide/stack/test/writebymyself/ReverseStack.java" />
-    <entry file="file://$PROJECT_DIR$/src/interviewguide/stack/ReverseStack.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="20" column="9" lean-forward="true" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/interviewguide/stack/StackSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="277">
-          <caret line="24" column="34" lean-forward="true" selection-start-line="24" selection-start-column="34" selection-end-line="24" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/interviewguide/stack/MaxRecSize.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="184">
@@ -459,13 +413,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
           <caret line="238" column="74" selection-start-line="238" selection-start-column="74" selection-end-line="238" selection-end-column="74" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/datastructure/linear/LinkList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
-          <caret line="104" column="19" lean-forward="true" selection-start-line="104" selection-start-column="19" selection-end-line="104" selection-end-column="19" />
         </state>
       </provider>
     </entry>
@@ -546,13 +493,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/basicalgorithm/sort/basicsort/Bubble.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="7" column="18" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/basicalgorithm/sort/basicsort/Select.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="184">
@@ -620,24 +560,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/basicalgorithm/sort/advancedsort/Quick.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="37" column="26" selection-start-line="37" selection-start-column="26" selection-end-line="37" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/basicalgorithm/sort/advancedsort/Merge.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="536">
-          <caret line="42" column="20" selection-start-line="42" selection-start-column="20" selection-end-line="42" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/datastructure/sort/Quick.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="92">
           <caret line="4" column="19" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/datastructure/linear/LinkList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="529">
+          <caret line="108" column="13" lean-forward="true" selection-start-line="108" selection-start-column="13" selection-end-line="108" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/designpattern/singinstance/Lock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
         </state>
       </provider>
     </entry>
@@ -652,6 +592,27 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/datastructure/linear/test/FastSlowTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="690">
+          <caret line="33" column="25" lean-forward="true" selection-start-line="33" selection-start-column="25" selection-end-line="33" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/datastructure/tree/test/BinaryErgodicTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/datastructure/tree/test/BinaryTreeTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/designpattern/singinstance/Unsafe.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="322">
@@ -659,10 +620,138 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/designpattern/singinstance/Lock.java">
+    <entry file="file://$PROJECT_DIR$/src/leetcode/linklist/LinkListToBTree.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="414">
-          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        <state relative-caret-position="483">
+          <caret line="21" column="3" lean-forward="true" selection-start-line="21" selection-start-column="3" selection-end-line="21" selection-end-column="3" />
+          <folding>
+            <element signature="e#709#710#0" expanded="true" />
+            <element signature="e#747#748#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/integer/CountPrimes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/mysql/删除重复邮箱">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/arraylist/ArrayToBTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="483">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+          <folding>
+            <element signature="e#188#189#0" expanded="true" />
+            <element signature="e#221#222#0" expanded="true" />
+            <element signature="e#280#281#0" expanded="true" />
+            <element signature="e#328#329#0" expanded="true" />
+            <element signature="e#687#688#0" expanded="true" />
+            <element signature="e#717#718#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/arraylist/CheckDecreaseArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/basicalgorithm/sort/basicsort/Bubble.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="7" column="18" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/basicalgorithm/sort/advancedsort/Merge.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1196">
+          <caret line="52" lean-forward="true" selection-start-line="52" selection-end-line="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/basicalgorithm/sort/advancedsort/Quick.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="460">
+          <caret line="20" column="32" selection-start-line="20" selection-start-column="32" selection-end-line="20" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/datastructure/tree/BinaryTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3082">
+          <caret line="7" column="18" lean-forward="true" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/basicalgorithm/traversal/TreeNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="7" column="16" lean-forward="true" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
+          <folding>
+            <element signature="e#131#132#0" expanded="true" />
+            <element signature="e#156#157#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/basicalgorithm/traversal/PreTraversal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="17" column="27" lean-forward="true" selection-start-line="17" selection-start-column="27" selection-end-line="17" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/basicalgorithm/traversal/MidTraversal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="11" column="5" lean-forward="true" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/basicalgorithm/traversal/LastTraversal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="15" column="9" lean-forward="true" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/basicalgorithm/traversal/LayerTraversal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="552">
+          <caret line="24" column="17" selection-start-line="24" selection-start-column="17" selection-end-line="24" selection-end-column="17" />
+          <folding>
+            <element signature="e#229#244#0" expanded="true" />
+            <element signature="e#449#459#0" expanded="true" />
+            <element signature="e#506#515#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/basicalgorithm/traversal/DownToUpTraversal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
         </state>
       </provider>
     </entry>
