@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f27be5ac-c294-4cf3-8bb9-5c6b6751b773" name="默认更改列表" comment="">
-      <change afterPath="$PROJECT_DIR$/src/leetcode/array/FirstMissingPositive.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/string/CountSubstrings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/string/IsSubSequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/designpattern/singinstance/DCL.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/basicalgorithm/traversal/DownToUpTraversal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basicalgorithm/traversal/DownToUpTraversal.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,52 +14,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/basicalgorithm/traversal/LayerTraversal.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="253">
-              <caret line="20" column="28" selection-start-line="20" selection-start-column="28" selection-end-line="20" selection-end-column="28" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/basicalgorithm/traversal/DownToUpTraversal.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="428">
-              <caret line="31" selection-start-line="31" selection-end-line="31" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#234#249#0" expanded="true" />
-                <element signature="e#524#539#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/leetcode/string/IsSubSequence.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="184">
-              <caret line="8" column="30" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/leetcode/string/CountSubstrings.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="43" column="9" lean-forward="true" selection-start-line="43" selection-start-column="9" selection-end-line="43" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/leetcode/array/FirstMissingPositive.java">
+        <entry file="file://$PROJECT_DIR$/src/designpattern/singinstance/DCL.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="322">
+              <caret line="14" column="24" lean-forward="true" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/designpattern/singinstance/Lock.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="253">
-              <caret line="11" column="5" lean-forward="true" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+              <caret line="11" column="38" lean-forward="true" selection-start-line="11" selection-start-column="38" selection-end-line="11" selection-end-column="38" />
             </state>
           </provider>
         </entry>
@@ -82,7 +47,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/interviewguide/list/PrintCommonPart.java" />
         <option value="$PROJECT_DIR$/src/interviewguide/list/test/PrintCommonPartTest.java" />
         <option value="$PROJECT_DIR$/src/interviewguide/list/test/RemoveNodeTest.java" />
         <option value="$PROJECT_DIR$/src/interviewguide/list/RemoveNode.java" />
@@ -114,7 +78,6 @@
         <option value="$PROJECT_DIR$/src/designpattern/SingleInstance.java" />
         <option value="$PROJECT_DIR$/src/designpattern/singinstance/Simplfy.java" />
         <option value="$PROJECT_DIR$/src/designpattern/singinstance/Unsafe.java" />
-        <option value="$PROJECT_DIR$/src/designpattern/singinstance/Lock.java" />
         <option value="$PROJECT_DIR$/src/leetcode/LinkListToBTree.java" />
         <option value="$PROJECT_DIR$/src/leetcode/ArrayToBTree.java" />
         <option value="$PROJECT_DIR$/src/leetcode/mysql/删除重复邮箱" />
@@ -133,6 +96,8 @@
         <option value="$PROJECT_DIR$/src/leetcode/string/IsSubSequence.java" />
         <option value="$PROJECT_DIR$/src/leetcode/string/CountSubstrings.java" />
         <option value="$PROJECT_DIR$/src/leetcode/array/FirstMissingPositive.java" />
+        <option value="$PROJECT_DIR$/src/designpattern/singinstance/Lock.java" />
+        <option value="$PROJECT_DIR$/src/designpattern/singinstance/DCL.java" />
       </list>
     </option>
   </component>
@@ -148,20 +113,19 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="762" />
-    <option name="y" value="1" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
     <option name="width" value="1113" />
-    <option name="height" value="1082" />
-  </component>
-  <component name="ProjectLevelVcsManager">
-    <ConfirmationsSetting value="2" id="添加" />
+    <option name="height" value="788" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -172,31 +136,18 @@
             <path>
               <item name="javabasic" type="b2602c69:ProjectViewProjectNode" />
               <item name="javabasic" type="462c0819:PsiDirectoryNode" />
-              <item name=".idea" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="javabasic" type="b2602c69:ProjectViewProjectNode" />
-              <item name="javabasic" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="javabasic" type="b2602c69:ProjectViewProjectNode" />
-              <item name="javabasic" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1597815612034" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1597841103817" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
@@ -316,17 +267,17 @@
       <workItem from="1597738604826" duration="67000" />
       <workItem from="1597738793870" duration="813000" />
       <workItem from="1597801168590" duration="4874000" />
+      <workItem from="1597840029955" duration="1670000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="62594000" />
+    <option name="totallyTimeSpent" value="64264000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="762" y="1" width="1113" height="1082" extended-state="0" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1320" height="784" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23266856" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23650794" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="设计器" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -384,7 +335,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/collection/list/ArrayListTest.java" />
     <entry file="file://$PROJECT_DIR$/src/interviewguide/queue/GetMaxWindow.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="276">
@@ -392,13 +342,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://E:/java/lib/src.zip!/java.base/java/lang/Object.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="238" column="74" selection-start-line="238" selection-start-column="74" selection-end-line="238" selection-end-column="74" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar://E:/java/lib/src.zip!/java.base/java/lang/Object.java" />
     <entry file="file://$PROJECT_DIR$/src/interviewguide/list/test/ReverseTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="322">
@@ -547,20 +491,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/designpattern/singinstance/Lock.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="414">
-          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/designpattern/singinstance/Simplfy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="253">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/datastructure/linear/test/FastSlowTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="690">
@@ -579,13 +509,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="437">
           <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/designpattern/singinstance/Unsafe.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="322">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
         </state>
       </provider>
     </entry>
@@ -684,16 +607,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="345">
           <caret line="15" column="9" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/basicalgorithm/traversal/LayerTraversal.java">
+    <entry file="file://$PROJECT_DIR$/src/basicalgorithm/traversal/DTUTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/designpattern/singinstance/Simplfy.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="253">
-          <caret line="20" column="28" selection-start-line="20" selection-start-column="28" selection-end-line="20" selection-end-column="28" />
+        <state relative-caret-position="46">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -709,10 +630,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/basicalgorithm/traversal/DTUTest.java">
+    <entry file="file://$PROJECT_DIR$/src/basicalgorithm/traversal/LayerTraversal.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="414">
-          <caret line="18" column="5" lean-forward="true" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+        <state relative-caret-position="253">
+          <caret line="20" column="28" selection-start-line="20" selection-start-column="28" selection-end-line="20" selection-end-column="28" />
         </state>
       </provider>
     </entry>
@@ -726,14 +647,35 @@
     <entry file="file://$PROJECT_DIR$/src/leetcode/string/CountSubstrings.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
-          <caret line="43" column="9" lean-forward="true" selection-start-line="43" selection-start-column="9" selection-end-line="43" selection-end-column="9" />
+          <caret line="43" column="9" selection-start-line="43" selection-start-column="9" selection-end-line="43" selection-end-column="9" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/leetcode/array/FirstMissingPositive.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="253">
-          <caret line="11" column="5" lean-forward="true" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+          <caret line="11" column="5" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/designpattern/singinstance/Unsafe.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/designpattern/singinstance/Lock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="11" column="38" lean-forward="true" selection-start-line="11" selection-start-column="38" selection-end-line="11" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/designpattern/singinstance/DCL.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="14" column="24" lean-forward="true" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
         </state>
       </provider>
     </entry>
