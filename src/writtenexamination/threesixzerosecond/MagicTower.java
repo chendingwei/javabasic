@@ -12,19 +12,22 @@ public class MagicTower {
             tower[i][1] = sc.nextInt();
         }
         int res=0;
+        int index = 0;
         for(int i=0;i<row;i++){
             if(tower[i][1] == 0){
                 res+=tower[i][0];
+                int[] temp = tower[i];
+                tower[i] = tower[index];
+                tower[index] = temp;
+                index++;
             }
         }
 
-        for(int j=0; j<row;j++) {
-            int max_index = 0;
-            for (int i = 0; i < row; i++) {
-                if (tower[i][1] == 1) {
-                    if (tower[i][0] > max_index) {
-                        max_index = i;
-                    }
+        for(int j=index; j<row;j++) {
+            int max_index = j;
+            for (int i = j; i < row; i++) {
+                if (tower[i][0] > tower[max_index][0]) {
+                    max_index = i;
                 }
             }
             if (res > tower[max_index][0]) {
@@ -33,6 +36,10 @@ public class MagicTower {
                 res += tower[max_index][0];
             }
             tower[max_index][1] = 0;
+
+            int[] temp = tower[max_index];
+            tower[max_index] = tower[j];
+            tower[j] = temp;
         }
         System.out.println(res);
     }
