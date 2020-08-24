@@ -1,9 +1,8 @@
 package interviewguide.tree.traversal.test;
 
-import com.datastructure.tree.Node;
 import interviewguide.tree.traversal.InOrder;
 import interviewguide.tree.traversal.PreOrder;
-import interviewguide.tree.traversal.TreeNode;
+import interviewguide.tree.TreeNode;
 
 public class OrderTest {
     public static void main(String[] args) {

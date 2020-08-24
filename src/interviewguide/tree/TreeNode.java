@@ -1,4 +1,4 @@
-package interviewguide.tree.traversal;
+package interviewguide.tree;
 
 public class TreeNode {
     public int val;

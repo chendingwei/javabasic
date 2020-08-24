@@ -1,5 +1,7 @@
 package interviewguide.tree.traversal;
 
+import interviewguide.tree.TreeNode;
+
 import java.util.LinkedList;
 
 public class PreOrder {
