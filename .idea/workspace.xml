@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f27be5ac-c294-4cf3-8bb9-5c6b6751b773" name="默认更改列表" comment="">
+<<<<<<< HEAD
       <change afterPath="$PROJECT_DIR$/src/interviewguide/array/GetMaxLength.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/interviewguide/array/GetMaxLengthPlus.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/interviewguide/tree/BiggestSubBST.java" afterDir="false" />
@@ -9,6 +10,15 @@
       <change afterPath="$PROJECT_DIR$/src/recite/Quick.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/recite/Shell.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+=======
+      <change afterPath="$PROJECT_DIR$/src/writtenexamination/a.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/writtenexamination/threesixzero/ArrayOperation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/writtenexamination/threesixzero/IllegelName.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/writtenexamination/threesixzero/NumOperation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/writtenexamination/threesixzero/StrOperation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/writtenexamination/threesixzerosecond/BackWardString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/writtenexamination/threesixzerosecond/MagicTower.java" afterDir="false" />
+>>>>>>> 35d374a6a0658319da4e948270f51dd54ea6096a
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/basicalgorithm/sort/advancedsort/Heap.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/interviewguide/tree/GetMaxLength.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/interviewguide/tree/GetMaxLength.java" afterDir="false" />
@@ -41,11 +51,31 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+<<<<<<< HEAD
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/interviewguide/tree/BiggestSubBST.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="69">
               <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+=======
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/writtenexamination/threesixzerosecond/BackWardString.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="46">
+              <caret line="2" selection-start-line="2" selection-end-line="2" selection-end-column="28" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/writtenexamination/threesixzerosecond/MagicTower.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="207">
+              <caret line="9" column="31" lean-forward="true" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="31" />
+>>>>>>> 35d374a6a0658319da4e948270f51dd54ea6096a
             </state>
           </provider>
         </entry>
@@ -65,8 +95,11 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+<<<<<<< HEAD
         <option value="$PROJECT_DIR$/src/interviewguide/list/test/StringPalindromeTest.java" />
         <option value="$PROJECT_DIR$/src/interviewguide/list/StringPalindrome.java" />
+=======
+>>>>>>> 35d374a6a0658319da4e948270f51dd54ea6096a
         <option value="$PROJECT_DIR$/src/interviewguide/list/AddList.java" />
         <option value="$PROJECT_DIR$/src/basicalgorithm/sort/Bubble.java" />
         <option value="$PROJECT_DIR$/src/basicalgorithm/sort/Select.java" />
@@ -112,10 +145,19 @@
         <option value="$PROJECT_DIR$/src/interviewguide/tree/traversal/test/OrderTest.java" />
         <option value="$PROJECT_DIR$/src/interviewguide/tree/traversal/InOrder.java" />
         <option value="$PROJECT_DIR$/src/interviewguide/tree/traversal/PosOrder.java" />
+<<<<<<< HEAD
         <option value="$PROJECT_DIR$/src/interviewguide/array/GetMaxLengthPlus.java" />
         <option value="$PROJECT_DIR$/src/interviewguide/array/GetMaxLength.java" />
         <option value="$PROJECT_DIR$/src/interviewguide/tree/GetMaxLength.java" />
         <option value="$PROJECT_DIR$/src/interviewguide/tree/BiggestSubBST.java" />
+=======
+        <option value="$PROJECT_DIR$/src/writtenexamination/threesixzero/IllegelName.java" />
+        <option value="$PROJECT_DIR$/src/writtenexamination/threesixzero/NumOperation.java" />
+        <option value="$PROJECT_DIR$/src/writtenexamination/threesixzero/StrOperation.java" />
+        <option value="$PROJECT_DIR$/src/writtenexamination/threesixzero/ArrayOperation.java" />
+        <option value="$PROJECT_DIR$/src/writtenexamination/threesixzerosecond/BackWardString.java" />
+        <option value="$PROJECT_DIR$/src/writtenexamination/threesixzerosecond/MagicTower.java" />
+>>>>>>> 35d374a6a0658319da4e948270f51dd54ea6096a
       </list>
     </option>
   </component>
@@ -134,17 +176,20 @@
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="753" />
     <option name="width" value="1113" />
-    <option name="height" value="1087" />
+    <option name="height" value="788" />
   </component>
   <component name="ProjectLevelVcsManager">
-    <ConfirmationsSetting value="2" id="添加" />
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+<<<<<<< HEAD
       <pane id="PackagesPane" />
+=======
+>>>>>>> 35d374a6a0658319da4e948270f51dd54ea6096a
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -161,26 +206,34 @@
               <item name="javabasic" type="b2602c69:ProjectViewProjectNode" />
               <item name="javabasic" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="interviewguide" type="462c0819:PsiDirectoryNode" />
+              <item name="writtenexamination" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="javabasic" type="b2602c69:ProjectViewProjectNode" />
               <item name="javabasic" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="interviewguide" type="462c0819:PsiDirectoryNode" />
-              <item name="tree" type="462c0819:PsiDirectoryNode" />
+              <item name="writtenexamination" type="462c0819:PsiDirectoryNode" />
+              <item name="threesixzerosecond" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+<<<<<<< HEAD
+=======
+      <pane id="PackagesPane" />
+>>>>>>> 35d374a6a0658319da4e948270f51dd54ea6096a
       <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+<<<<<<< HEAD
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1598254165996" />
+=======
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1598251881971" />
+>>>>>>> 35d374a6a0658319da4e948270f51dd54ea6096a
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
@@ -197,6 +250,7 @@
       </list>
     </option>
   </component>
+<<<<<<< HEAD
   <component name="RunManager" selected="Application.GetMaxLength (1)">
     <configuration name="GetMaxLength (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="interviewguide.tree.GetMaxLength" />
@@ -204,6 +258,15 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="interviewguide.tree.*" />
+=======
+  <component name="RunManager" selected="Application.MagicTower">
+    <configuration name="ArrayOperation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="writtenexamination.threesixzero.ArrayOperation" />
+      <module name="javabasic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="writtenexamination.threesixzero.*" />
+>>>>>>> 35d374a6a0658319da4e948270f51dd54ea6096a
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -211,12 +274,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+<<<<<<< HEAD
     <configuration name="GetMaxLength" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="interviewguide.array.GetMaxLength" />
       <module name="javabasic" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="interviewguide.array.*" />
+=======
+    <configuration name="BackWardString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="writtenexamination.threesixzerosecond.BackWardString" />
+      <module name="javabasic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="writtenexamination.threesixzerosecond.*" />
+>>>>>>> 35d374a6a0658319da4e948270f51dd54ea6096a
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -224,12 +296,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+<<<<<<< HEAD
     <configuration name="GetMaxLengthPlus" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="interviewguide.array.GetMaxLengthPlus" />
       <module name="javabasic" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="interviewguide.array.*" />
+=======
+    <configuration name="IllegelName" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="writtenexamination.threesixzero.IllegelName" />
+      <module name="javabasic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="writtenexamination.threesixzero.*" />
+>>>>>>> 35d374a6a0658319da4e948270f51dd54ea6096a
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -237,12 +318,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+<<<<<<< HEAD
     <configuration name="IslandNums" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="leetcode.dp.IslandNums" />
       <module name="javabasic" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="leetcode.dp.*" />
+=======
+    <configuration name="MagicTower" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="writtenexamination.threesixzerosecond.MagicTower" />
+      <module name="javabasic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="writtenexamination.threesixzerosecond.*" />
+>>>>>>> 35d374a6a0658319da4e948270f51dd54ea6096a
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -250,12 +340,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+<<<<<<< HEAD
     <configuration name="OrderTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="interviewguide.tree.traversal.test.OrderTest" />
       <module name="javabasic" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="interviewguide.tree.traversal.test.*" />
+=======
+    <configuration name="NumOperation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="writtenexamination.threesixzero.NumOperation" />
+      <module name="javabasic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="writtenexamination.threesixzero.*" />
+>>>>>>> 35d374a6a0658319da4e948270f51dd54ea6096a
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -264,6 +363,7 @@
       </method>
     </configuration>
     <list>
+<<<<<<< HEAD
       <item itemvalue="Application.IslandNums" />
       <item itemvalue="Application.OrderTest" />
       <item itemvalue="Application.GetMaxLengthPlus" />
@@ -277,6 +377,21 @@
         <item itemvalue="Application.GetMaxLengthPlus" />
         <item itemvalue="Application.OrderTest" />
         <item itemvalue="Application.IslandNums" />
+=======
+      <item itemvalue="Application.IllegelName" />
+      <item itemvalue="Application.NumOperation" />
+      <item itemvalue="Application.ArrayOperation" />
+      <item itemvalue="Application.BackWardString" />
+      <item itemvalue="Application.MagicTower" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MagicTower" />
+        <item itemvalue="Application.BackWardString" />
+        <item itemvalue="Application.ArrayOperation" />
+        <item itemvalue="Application.NumOperation" />
+        <item itemvalue="Application.IllegelName" />
+>>>>>>> 35d374a6a0658319da4e948270f51dd54ea6096a
       </list>
     </recent_temporary>
   </component>
@@ -303,11 +418,17 @@
       <workItem from="1597840029955" duration="1670000" />
       <workItem from="1597886415275" duration="11189000" />
       <workItem from="1597972691428" duration="3957000" />
+<<<<<<< HEAD
       <workItem from="1598232268952" duration="6157000" />
+=======
+      <workItem from="1598093888859" duration="3883000" />
+      <workItem from="1598249616765" duration="2255000" />
+>>>>>>> 35d374a6a0658319da4e948270f51dd54ea6096a
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="85567000" />
   </component>
   <component name="ToolWindowManager">
@@ -315,6 +436,15 @@
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1631753" />
+=======
+    <option name="totallyTimeSpent" value="85548000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1320" height="784" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23888889" />
+>>>>>>> 35d374a6a0658319da4e948270f51dd54ea6096a
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="设计器" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -324,7 +454,11 @@
       <window_info id="Designer" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32946146" />
+<<<<<<< HEAD
       <window_info anchor="bottom" id="Run" order="2" weight="0.33090532" />
+=======
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3312789" />
+>>>>>>> 35d374a6a0658319da4e948270f51dd54ea6096a
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3990755" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -390,7 +524,10 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/src/designpattern/SingleInstance.java" />
+=======
+>>>>>>> 35d374a6a0658319da4e948270f51dd54ea6096a
     <entry file="file://$PROJECT_DIR$/src/others/Stringbuilder.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="207">
@@ -659,23 +796,41 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/interviewguide/tree/traversal/PosOrder.java">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="161">
           <caret line="7" selection-start-line="7" selection-end-line="7" />
+=======
+        <state relative-caret-position="184">
+          <caret line="8" column="23" lean-forward="true" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
+>>>>>>> 35d374a6a0658319da4e948270f51dd54ea6096a
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/interviewguide/tree/traversal/test/OrderTest.java">
+    <entry file="file://$PROJECT_DIR$/src/interviewguide/tree/GetMaxLength.java">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="437">
           <caret line="22" selection-start-line="22" selection-end-line="22" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+=======
+        <state relative-caret-position="92">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/interviewguide/tree/traversal/PosOrder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+>>>>>>> 35d374a6a0658319da4e948270f51dd54ea6096a
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/interviewguide/array/GetMaxLengthPlus.java">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="207">
           <caret line="9" column="25" lean-forward="true" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
         </state>
@@ -706,9 +861,72 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/recite/Shell.java">
+=======
+        <state relative-caret-position="391">
+          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/interviewguide/tree/traversal/test/OrderTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="92">
-          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        <state relative-caret-position="483">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/writtenexamination/a.java">
+>>>>>>> 35d374a6a0658319da4e948270f51dd54ea6096a
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="14" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/writtenexamination/threesixzero/IllegelName.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="575">
+          <caret line="25" column="20" lean-forward="true" selection-start-line="25" selection-start-column="20" selection-end-line="25" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/writtenexamination/threesixzero/StrOperation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177">
+          <caret line="20" column="49" selection-start-line="20" selection-start-column="48" selection-end-line="21" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/writtenexamination/threesixzero/NumOperation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="989">
+          <caret line="43" selection-start-line="43" selection-end-line="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/writtenexamination/threesixzero/ArrayOperation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="393">
+          <caret line="42" column="22" selection-start-line="42" selection-start-column="22" selection-end-line="42" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/writtenexamination/threesixzerosecond/BackWardString.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" selection-start-line="2" selection-end-line="2" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/writtenexamination/threesixzerosecond/MagicTower.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="9" column="31" lean-forward="true" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="31" />
         </state>
       </provider>
     </entry>
