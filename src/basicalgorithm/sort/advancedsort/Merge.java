@@ -7,6 +7,7 @@ package basicalgorithm.sort.advancedsort;
 
 import java.util.Arrays;
 
+/** @noinspection ALL*/
 public class Merge {
     private static int[] assist;
 
