@@ -6,11 +6,15 @@ public class Lazy {
 
     }
 
-    private static Lazy lazy;
-
+    private static volatile Lazy lazy;
+//    double check lock  懒汉式
     public static Lazy getInstance(){
         if(lazy == null){
-            lazy = new Lazy();
+            synchronized (Lazy.class){
+                if(lazy == null) {
+                    lazy = new Lazy();//  不是一个原子性操作
+                }
+            }
         }
         return lazy;
     }
