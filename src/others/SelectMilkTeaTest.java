@@ -50,7 +50,7 @@ public class SelectMilkTeaTest {
 
 class MilkTea{
     private int state = 0;
-    private Lock lock = new ReentrantLock(false);
+    private Lock lock = new ReentrantLock();
     private Condition con = lock.newCondition();
 
     public void print(){
