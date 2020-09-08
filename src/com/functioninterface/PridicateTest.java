@@ -1,5 +1,6 @@
 package com.functioninterface;
 
+import java.util.HashMap;
 import java.util.function.Predicate;
 
 public class PridicateTest {
@@ -10,5 +11,22 @@ public class PridicateTest {
                 return false;
             }
         };
+
+
+        HashMap<String,String> map = new HashMap<>(){
+            {
+                put("J","B");
+                put("B","S");
+                put("S","J");
+            }
+        };
+
+        Predicate<String> pre = (str)->{
+            boolean j = map.get(str).equals("J");
+            return j;
+        };
+
+        System.out.println(pre.test("S"));
+
     }
 }

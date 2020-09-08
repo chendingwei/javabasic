@@ -24,7 +24,7 @@ public class MyThreadPool {
         System.out.println(Runtime.getRuntime().availableProcessors());
 
         try{
-            for (int i = 0; i < 9; i++) {
+            for (int i = 0; i < 10; i++) {
                 pool.execute(()->{
                     System.out.println(Thread.currentThread().getName()+"   OK");
                 });

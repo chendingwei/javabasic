@@ -9,7 +9,6 @@ public class KindsException {
             System.out.println("try success");
         }catch (Exception e){
             System.out.println("catch");
-            e.printStackTrace();
             int m = arr[2];
             System.out.println("catch success");
         }finally {

@@ -12,7 +12,7 @@ public class CyclicBarrierTest {
         for (int i = 0; i < 7; i++) {
             final int temp = i;
             new Thread(()->{
-                System.out.println(Thread.currentThread().getName()+temp);
+                System.out.println(Thread.currentThread().getName());
                 try {
                     cyclicBarrier.await();
                 } catch (InterruptedException e) {
