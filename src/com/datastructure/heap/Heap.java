@@ -29,8 +29,11 @@ public class Heap<T extends Comparable<T>> {
         while (k>1){
             if(less(k/2,k)){
                 exch(k/2,k);
+                k = k/2;
+            }else {
+                break;
             }
-            k = k/2;
+
         }
     }
 

@@ -16,9 +16,10 @@ public class Test {
                 lock.myUnlock();
             }
         }, "A").start();
-        TimeUnit.SECONDS.sleep(1);
-        new Thread(() -> {
 
+        TimeUnit.SECONDS.sleep(1);
+
+        new Thread(() -> {
             lock.myLock();
             try {
                 TimeUnit.SECONDS.sleep(3);
@@ -28,6 +29,7 @@ public class Test {
                 lock.myUnlock();
             }
         }, "B").start();
+
         lock.myLock();
         lock.myUnlock();
     }
