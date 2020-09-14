@@ -1,9 +1,6 @@
 package com.threadpool;
 
-import java.util.concurrent.Executors;
-import java.util.concurrent.LinkedBlockingQueue;
-import java.util.concurrent.ThreadPoolExecutor;
-import java.util.concurrent.TimeUnit;
+import java.util.concurrent.*;
 
 
 // ThreadPoolExecutor.AbortPolicy());  人满，拒绝服务
@@ -12,6 +9,7 @@ import java.util.concurrent.TimeUnit;
 // ThreadPoolExecutor.DiscardOldestPolicy()  队列满了，尝试和最早的竞争，竞争失败直接丢弃任务
 public class MyThreadPool {
     public static void main(String[] args) {
+
         ThreadPoolExecutor pool = new ThreadPoolExecutor(
                 2,
                 Runtime.getRuntime().availableProcessors(),
@@ -20,13 +18,16 @@ public class MyThreadPool {
                 new LinkedBlockingQueue<>(3),
                 Executors.defaultThreadFactory(),
                 new ThreadPoolExecutor.DiscardOldestPolicy());
-
-        System.out.println(Runtime.getRuntime().availableProcessors());
-
-        try{
+        try {
             for (int i = 0; i < 10; i++) {
-                pool.execute(()->{
-                    System.out.println(Thread.currentThread().getName()+"   OK");
+                pool.execute(() -> {
+                    System.out.println(Thread.currentThread().getName() + "   进入");
+                    try {
+                        TimeUnit.SECONDS.sleep(2);
+                    } catch (InterruptedException e) {
+                        e.printStackTrace();
+                    }
+                    System.out.println(Thread.currentThread().getName() + "    退出");
                 });
             }
         }catch (Exception e){

@@ -49,7 +49,6 @@ class MyCache{
 
     public void get(String key){
         lock.readLock().lock();
-
         try {
             System.out.println(Thread.currentThread().getName()+"读取"+key);
             String s = map.get(key);

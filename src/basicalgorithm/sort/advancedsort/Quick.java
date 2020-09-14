@@ -8,13 +8,13 @@ import java.util.Arrays;
 //4、重复上述过程
 public class Quick {
     public static void sort(int[] arr){
-        int s = 0;
-        int e = arr.length-1;
-        sort(arr,s,e);
+        int lo = 0;
+        int hi = arr.length-1;
+        sort(arr,lo,hi);
     }
 
     public static void sort(int[] arr, int s, int e){
-        if(e <= s){
+        if(e < s){
             return;
         }
 
@@ -28,17 +28,16 @@ public class Quick {
         int left = s;
         int right = e+1;
         while (true){
-            while (key < arr[--right]){
+            while (arr[--right] > key){
                 if(right == s){
                     break;
                 }
             }
             while (arr[++left] < key){
-                if(left == e){
+                if (left == e){
                     break;
                 }
             }
-
             if(left >= right){
                 break;
             }else {
@@ -47,9 +46,9 @@ public class Quick {
                 arr[right] = temp;
             }
         }
-        int temp = arr[s];
+        int tmp = arr[s];
         arr[s] = arr[right];
-        arr[right] = temp;
+        arr[right] = tmp;
         return right;
     }
 
