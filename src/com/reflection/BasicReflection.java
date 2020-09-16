@@ -4,7 +4,6 @@ public class BasicReflection extends Object{
     public static void main(String[] args) throws ClassNotFoundException {
         Class c1 = Class.forName("com.reflection.User");
         System.out.println(c1);
-
     }
 }
 

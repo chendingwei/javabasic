@@ -6,6 +6,7 @@ public class GetClass {
         System.out.println("这个人是" + person.name);
 //        一、通过对象获得
         Class<? extends Person> c1 = person.getClass();
+
 //        二、forname获得
         Class<?> c2 = Class.forName("com.reflection.Student");
 //        三、通过类名获得

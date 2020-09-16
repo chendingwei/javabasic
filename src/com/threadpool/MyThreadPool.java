@@ -3,7 +3,7 @@ package com.threadpool;
 import java.util.concurrent.*;
 
 
-// ThreadPoolExecutor.AbortPolicy());  人满，拒绝服务
+// ThreadPoolExecutor.AbortPolicy());  人满，拒绝服务，抛出异常
 // ThreadPoolExecutor.CallerRunsPolicy()); 哪里来的去哪里
 // ThreadPoolExecutor.DiscardPolicy(); 队列满了，不会抛出异常
 // ThreadPoolExecutor.DiscardOldestPolicy()  队列满了，尝试和最早的竞争，竞争失败直接丢弃任务
