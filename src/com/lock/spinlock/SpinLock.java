@@ -16,7 +16,6 @@ public class SpinLock {
             } catch (InterruptedException e) {
                 e.printStackTrace();
             }
-
         }
         System.out.println(thread.getName()+"-> mylock");
     }
