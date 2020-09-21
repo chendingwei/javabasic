@@ -30,7 +30,6 @@ public class ReverseList {
 
     public void reverse(){
         Node cur = head;
-        Node pre = null;
         Node next = null;
         while (head.next != null){
             next = head.next;
