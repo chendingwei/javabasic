@@ -9,13 +9,21 @@ public class KindsException {
             System.out.println("try success");
         }catch (Exception e){
             System.out.println("catch");
-            int m = arr[2];
+//            int m = arr[2];
             System.out.println("catch success");
         }finally {
             System.out.println("finally");
-            int n = arr[2];
+//            int n = arr[2];
             System.out.println("finally success");
         }
         System.out.println("main");
+    }
+
+    public int sum(String a,int b ){
+        return 1;
+    }
+
+    public int sum(int a, String b){
+        return 1;
     }
 }

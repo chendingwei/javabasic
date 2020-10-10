@@ -14,20 +14,6 @@ public class Second {
                 p2++;
             }
         }
-
-        if((p1+p2)<(len)/2){
-            if(p1==m){
-                System.out.println(num2[len/2-m-p2-1]);
-            }else {
-                System.out.println(num1[len/2-n-p1-1]);
-            }
-        }else {
-            if(len %2 == 0){
-                int mid = (num1[p1]+num2[p2])/2;
-            }else {
-                int mid =
-            }
-        }
-
+        return 1;
     }
 }
