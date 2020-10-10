@@ -6,8 +6,14 @@ import java.util.concurrent.FutureTask;
 
 public class CallableTest {
     public static void main(String[] args) throws ExecutionException, InterruptedException {
-        MyThread thread = new MyThread();
-        FutureTask<String> futureTask = new FutureTask<>(thread);
+//        MyThread thread = new MyThread();
+//        FutureTask<String> futureTask = new FutureTask<>(thread);
+
+        FutureTask<String> futureTask = new FutureTask<>(()->{
+            System.out.println(Thread.currentThread().getName());
+            System.out.println("123");
+            return "ABC";
+        });
 
         new Thread(futureTask,"A").start();
         new Thread(futureTask,"B").start();

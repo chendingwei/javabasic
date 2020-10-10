@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /*
-5 "3456124589236438820168"
+5 "34561245892364388201628"
 
 out
 34 + 56 +12 +45 +89 = 236;
